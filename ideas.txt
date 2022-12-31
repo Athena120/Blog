@@ -1,0 +1,3 @@
+1. Add a delete for comments if the user is the one who posted it or the admin
+2. Delete text in the comment form after the user posts
+3.
